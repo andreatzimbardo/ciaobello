@@ -5,7 +5,6 @@
 *.cs     diff=csharp
 
 # Standard to msysgit
-*.doc	 diff=astextplain
 *.DOC	 diff=astextplain
 *.DOCX diff=astextplain
 *.dot  diff=astextplain
@@ -15,3 +14,4 @@
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
 culo
+polimi
